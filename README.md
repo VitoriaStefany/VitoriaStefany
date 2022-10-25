@@ -17,7 +17,7 @@
 </br>
 
   <h2 align="center">⭐ Bem vindo ao meu perfil GitHub 👋</h1>
-  Tenho 23 anos, estou iniciando no mundo da programação e já estou amando!!! ♥
+  Tenho 23 anos e estou iniciando no mundo da programação!!! ♥
 
 </br>
 </br>
