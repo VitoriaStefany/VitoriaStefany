@@ -34,7 +34,6 @@
 
  ![Snake animation](https://github.com/vitoriastefany/vitoriastefany/blob/output/github-contribution-grid-snake.svg)
 
-</br>
 
 <div>
   <a href="https://github.com/vitoriastefany">
