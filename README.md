@@ -1,4 +1,4 @@
-<img align="right" width="400px" style="margin-top: -20px" src="https://o.remove.bg/downloads/e30a28a0-c4b0-4001-9621-577bcb16b07d/octocat-1666672853917-removebg-preview.png">
+<img align="right" width="400px" style="margin-top: -20px" src="https://i.ibb.co/2ntGt3D/octocat-1666672853917-removebg-preview-1.png">
 
 
 <div dsplay="inline-block">
@@ -31,17 +31,15 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
 </br>
-</br>
 
  ![Snake animation](https://github.com/vitoriastefany/vitoriastefany/blob/output/github-contribution-grid-snake.svg)
 
 </br>
-</br>
 
 <div>
   <a href="https://github.com/vitoriastefany">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriastefany&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriastefany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriastefany&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitoriastefany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
 </br>
 
