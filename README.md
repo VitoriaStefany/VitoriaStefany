@@ -17,7 +17,7 @@
 </br>
 
   <h2 align="center">⭐ Bem vindo ao meu perfil GitHub 👋</h1>
-  Tenho 23 anos, sou estudante de Sistemas de Informação pela UFPA e estou iniciando no mundo da programação!!! ♥
+  Tenho 24 anos, sou estudante de Sistemas de Informação pela UFPA e estou iniciando no mundo da programação!!! ♥
 
 </br>
 </br>
